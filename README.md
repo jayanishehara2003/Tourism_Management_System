@@ -1,5 +1,4 @@
-# Tourism_Management_System
-#SL GoTour
+# SL GoTour
 SL GoTour is a full-stack tourism management platform designed to help travelers, tour operators, and service providers plan, organize, and manage tourism activities efficiently while giving administrators robust tools to manage accommodations, transportation, guides, attractions, and tour packages. The system provides a smooth end-to-end travel planning experience and highlights strong full-stack development and system design capabilities.
 
 ✨ Key Features
